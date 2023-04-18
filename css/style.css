@@ -8,3 +8,11 @@ body {
 main {
     flex-grow: 1;
 }
+
+.text-info-emphasis {
+    color: #0d6efd;
+}
+
+.text-light {
+    color: #f8f9fa;
+}
